@@ -1,4 +1,5 @@
-nginx-auth
-==========
+haproxy-auth
+============
 
-Docker image for simple nginx proxy with authentication for POST / PUT / DELETE
+Docker image for simple haproxy with authentication for POST / PUT / DELETE
+
